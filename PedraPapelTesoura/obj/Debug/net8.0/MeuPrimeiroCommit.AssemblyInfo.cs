@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuPrimeiroCommit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b81a715d563f7723d84c8316e6119d4916233580")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dff904e6dd5c23d1318791424067162f7edfb2de")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuPrimeiroCommit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuPrimeiroCommit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
